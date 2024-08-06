@@ -25,10 +25,6 @@
 - React Router
 - Material-UI
 
-## Live Demo
-
-[View Live Demo](https://loltolo-lesapiti.github.io/utawala-gym/)
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
